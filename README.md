@@ -17,3 +17,28 @@ $ pkg install -y git
 $ git clone https://github.com/SulimanHacker1/ig.osi.git && cd ig.osi
 
 $ chmod +x install.sh && ./install.sh
+
+----------------------------------------------------------------------------------------------------------------------
+# Using
+$ python3 main.py -u username
+
+$ python3 main.py -h
+
+usage: main.py [-h] -u USERNAME [-p] [-s]
+
+optional arguments:
+
+-h, --help show this help message and exit
+
+-u USERNAME, --username USERNAME username of account to scan
+
+-p, --postscrap scrape all uploaded images info
+
+-s, --savedata save data to file ( save profile pic, info , post info )
+
+-------------------------------------------------------------------------------------------------------------------------
+# Follow Me on
+✅ whatsapp -03439602945
+✅ Youtube  -https://www.youtube.com/c/SulimanChannel
+✅ Telegram -https://t.me/hackersknowledge
+✅ website -https://sulimankhanhacker.blogspot.com/
