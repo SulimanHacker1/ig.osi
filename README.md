@@ -12,6 +12,8 @@ The information includes:
 
 ---------------------------------------------------------------------------------------------------------------------
 # How To Insatll
+$ apt update && apt upgrade
+
 $ pkg install -y git
 
 $ git clone https://github.com/SulimanHacker1/ig.osi.git 
