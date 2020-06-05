@@ -46,8 +46,10 @@ optional arguments:
 
 ✅ Youtube  -https://www.youtube.com/c/SulimanChannel
 
+✅instagram -https://www.instagram.com/sulimanhacker0/
+
 ✅ Telegram -https://t.me/hackersknowledge
 
 ✅ website -https://sulimankhanhacker.blogspot.com/
 
-✅instagram -https://www.instagram.com/sulimanhacker0/
+------------------------------------------------------------------------------------------------------------------------
