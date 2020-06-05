@@ -49,7 +49,7 @@ class extra():
  
         {gr}Code By :
   {gr}Suliman Hacker
-       03439602945{nu}
+    ✅03439602945{nu}
 	            """)
 
 class main():
