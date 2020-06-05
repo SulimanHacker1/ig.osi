@@ -47,3 +47,5 @@ optional arguments:
 ✅ Telegram -https://t.me/hackersknowledge
 
 ✅ website -https://sulimankhanhacker.blogspot.com/
+
+✅instagram -https://www.instagram.com/sulimanhacker0/
