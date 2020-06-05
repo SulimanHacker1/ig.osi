@@ -48,7 +48,8 @@ class extra():
  ╚═╝  ╚═╝  ╩  {gr}o{cy}  ╩  ╚═╝
  
         {gr}Code By :
-  {gr}youtube.com/theunknon{nu}
+  {gr}Suliman Hacker
+       03439602945{nu}
 	            """)
 
 class main():
