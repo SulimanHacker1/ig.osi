@@ -14,7 +14,9 @@ The information includes:
 # How To Insatll
 $ pkg install -y git
 
-$ git clone https://github.com/SulimanHacker1/ig.osi.git && cd ig.osi
+$ git clone https://github.com/SulimanHacker1/ig.osi.git 
+
+& cd ig.osi
 
 $ chmod +x install.sh && ./install.sh
 
