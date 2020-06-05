@@ -9,4 +9,11 @@ The information includes:
 [ tags ] : most used , and by -t all used tags
 
 [ posts ] : accessability caption, location, timestamp, comments disabled, Caption, picture url
-.
+
+---------------------------------------------------------------------------------------------------------------------
+# How To Insatll
+$ pkg install -y git
+
+$ git clone https://github.com/th3unkn0n/osi.ig.git && cd osi.ig
+
+$ chmod +x install.sh && ./install.sh
