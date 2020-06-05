@@ -11,6 +11,10 @@ The information includes:
 [ posts ] : accessability caption, location, timestamp, comments disabled, Caption, picture url
 
 ---------------------------------------------------------------------------------------------------------------------
+# TUTORIAL video
+
+
+---------------------------------------------------------------------------------------------------------------------
 # How To Insatll
 $ apt update && apt upgrade
 
