@@ -12,7 +12,7 @@ The information includes:
 
 ---------------------------------------------------------------------------------------------------------------------
 # Practical TUTORIAL 
-[![IMAGE ALT TEXT HERE](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcDEC8FAoeDywMN25Vh76JyJ4t-agCrlVLo8wsfz1ppslT-K5o&usqp=CAU)]
+[![IMAGE ALT TEXT HERE](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcDEC8FAoeDywMN25Vh76JyJ4t-agCrlVLo8wsfz1ppslT-K5o&usqp=CAU)](https://www.youtube.com/watch?v=_c3Fp2Ms1B4)
 
 
 ---------------------------------------------------------------------------------------------------------------------
