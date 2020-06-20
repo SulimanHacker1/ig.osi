@@ -60,6 +60,8 @@ optional arguments:
 ------------------------------------------------------------------------------------------------------------------------
 # Donate
 You may donate this project using my BitCoin address at:
+
 BitCoin Only 3$
+
 3PJmKY2P6dk4E4UFPp7F6zNNPQi2HQtAwt
 
