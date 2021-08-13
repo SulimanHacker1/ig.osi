@@ -47,21 +47,14 @@ optional arguments:
 
 -------------------------------------------------------------------------------------------------------------------------
 # Follow Me on
-✅ whatsapp -03439602945
+✅ whatsapp +923439602945
 
-✅ Youtube  -https://www.youtube.com/c/SulimanChannel
+✅ Youtube  -https://www.youtube.com/c/SulimanChannel0
 
 ✅instagram -https://www.instagram.com/sulimanhacker0/
 
-✅ Telegram -https://t.me/hackersknowledge
+✅ Telegram -https://t.me/Cardingfree01
 
-✅ website -https://sulimankhanhacker.blogspot.com/
+✅ website -https://sulimanhacker.blogspot.com
 
 ------------------------------------------------------------------------------------------------------------------------
-# Donate
-You may donate this project using my BitCoin address at:
-
-BitCoin Only 3$
-
-3PJmKY2P6dk4E4UFPp7F6zNNPQi2HQtAwt
-
