@@ -49,10 +49,6 @@ optional arguments:
 # Follow Me on
 ✅ whatsapp +923439602945
 
-✅ Youtube  -Suliman Channel
-
-✅instagram -https://www.instagram.com/sulimanhacker_
-
 ✅ website -https://sulimanhacker.blogspot.com
 
 ------------------------------------------------------------------------------------------------------------------------
